@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Dialogue_Test.unity
+    path: Assets/Scenes/GreenMonster.unity
     guid: 14d5756782448bd44bed43732f33419e
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
