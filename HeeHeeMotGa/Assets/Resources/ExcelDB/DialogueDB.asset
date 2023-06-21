@@ -152,7 +152,7 @@ MonoBehaviour:
       speakerUIindex: 1
       name: 
       dialogue: "\uBB38 \uC7A0\uAE30\uB294 \uC18C\uB9AC!!(\uC784\uC2DC)"
-      characterPath: Character/63214
+      characterPath: Character/00600
       BackGroundPath: None
       tweenType: 0
       nextindex: 14
@@ -242,7 +242,7 @@ MonoBehaviour:
       speakerUIindex: 1
       name: 
       dialogue: "\uBB34\uB824 \uBB38\uC774 \uC7A0\uAE34 \uC18C\uB9AC!(\uC784\uC2DC)"
-      characterPath: Character/63214
+      characterPath: Character/00600
       BackGroundPath: BackGround/201
       tweenType: 0
       nextindex: 23
