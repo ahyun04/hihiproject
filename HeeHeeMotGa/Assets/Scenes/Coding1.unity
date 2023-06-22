@@ -339,7 +339,7 @@ MonoBehaviour:
   dialogsDB: 1
   currentDialogIndex: -1
   currentSpeakerIndex: 0
-  typingSpeed: 0.1
+  typingSpeed: 0.05
   isTypingEffect: 0
   select_001: {fileID: 2043145799}
   selectTextMain_01: {fileID: 2077476832}
@@ -713,7 +713,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Button
+  m_Text: 
 --- !u!222 &695811907
 CanvasRenderer:
   m_ObjectHideFlags: 0

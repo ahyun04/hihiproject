@@ -28,7 +28,7 @@ public class DialogSystem : MonoBehaviour
 
     public int currentDialogIndex = -1;                 //현재 대사 순번
     public int currentSpeakerIndex = 0;                 //현재 말을 하는 화자의 Speakers 배열 순번
-    public float typingSpeed = 0.1f;                    //텍스트 타이핑 효과의 재생속도
+    public float typingSpeed = 0.3f;                    //텍스트 타이핑 효과의 재생속도
     public bool isTypingEffect = false;                 //텍스트 타이핑 효과가 재생중인지 판단.
 
     public GameObject select_001;
